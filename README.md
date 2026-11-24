@@ -2,7 +2,7 @@
 
 A MERN app where a seller signs up, logs in, and manages their product catalogue: add, list, search, update and delete products. The frontend is React (Vite + Tailwind), and it talks to an Express + MongoDB REST API.
 
-**Live frontend:** https://e-commerce-website-sigma-brown.vercel.app. The API runs locally (see below), so you need to run the backend to use the app.
+**Live frontend:** https://e-commerce-website-frontend-lac.vercel.app. The API runs locally (see below), so you need to run the backend to use the app.
 
 ## Features
 
